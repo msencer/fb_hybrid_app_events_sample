@@ -1,0 +1,1 @@
+This is an example Apache Cordova app to demonstrate how to use Facebook hybrid mobile app events.For more information: [https://developers.facebook.com/docs/app-events/hybrid-app-events/](https://developers.facebook.com/docs/app-events/hybrid-app-events/)
